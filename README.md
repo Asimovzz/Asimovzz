@@ -23,7 +23,7 @@
 
 1. **[Rustchat](https://github.com/Asimovzz/rustchat)**
 2. **[Meowwww](https://github.com/Asimovzz/Meowww)**
-3. **[Chinese_Standard_Mahjong_pkuai](https://github.com/Asimovzz/Chinese_Standard_Mahjong_pkuai)**
+3. **[MahjongBot](https://github.com/Asimovzz/MahjongBot)**
 4. **[TractorBot](https://github.com/Asimovzz/TractorBot)**
 
 ## 📈 GitHub Stats
