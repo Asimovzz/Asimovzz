@@ -28,10 +28,7 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="github-readme-stats-sigma-five.vercel.app/api?username=Asimovzz&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" alt="GitHub stats" width="48%" />
-  <img src="github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Asimovzz&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asimovzz)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Get in Touch
 
