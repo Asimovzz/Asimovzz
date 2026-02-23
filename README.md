@@ -1,9 +1,7 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Asimovz 👋
 
 > 🎓 Junior Computer Science Student 
 > 💡 Passionate about Systems Engineering & Artificial Intelligence.
-
-I am a CS undergrad who enjoys bridging the gap between low-level system design and advanced AI algorithms. 
 
 ## 🛠️ Tech Stack & Skills
 
@@ -14,7 +12,8 @@ I am a CS undergrad who enjoys bridging the gap between low-level system design 
 
 **AI & Machine Learning:**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-* **Domains:** Reinforcement Learning, Deep Learning, Machine Learning
+
+**Domains:** Reinforcement Learning, Deep Learning, Machine Learning
 
 **Systems & DevOps:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -22,11 +21,10 @@ I am a CS undergrad who enjoys bridging the gap between low-level system design 
 
 ## 🚀 Featured Projects
 
-1. **[Tractor Card Game RL Bot](https://github.com/YOUR_USERNAME/PROJECT_NAME)**
-2. **[SysY to RISC-V Compiler](https://github.com/YOUR_USERNAME/PROJECT_NAME)**
-3. **[SimpleSSD FAST Mapping Simulator](https://github.com/YOUR_USERNAME/PROJECT_NAME)**
-4. **[RL Training Log Visualizer](https://github.com/YOUR_USERNAME/PROJECT_NAME)**
-5. **[Advanced Branch Predictor Implementation](https://github.com/YOUR_USERNAME/PROJECT_NAME)**
+1. **[Rustchat](https://github.com/Asimovzz/rustchat)**
+2. **[Meowwww](https://github.com/Asimovzz/Meowww)**
+3. **[Chinese_Standard_Mahjong_pkuai](https://github.com/Asimovzz/Chinese_Standard_Mahjong_pkuai)**
+4. **[TractorBot](https://github.com/YOUR_USERNAME/PROJECT_NAME)**
 
 ## 📈 GitHub Stats
 
@@ -37,5 +35,4 @@ I am a CS undergrad who enjoys bridging the gap between low-level system design 
 
 ## 📫 Get in Touch
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn / Blog**: [Visit Here](https://your-link.com)
+- **Email**: [Zhangsm050615@outlook.com](Zhangsm050615@outlook.com)
