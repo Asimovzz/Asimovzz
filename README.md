@@ -26,10 +26,6 @@
 3. **[MahjongBot](https://github.com/Asimovzz/MahjongBot)**
 4. **[TractorBot](https://github.com/Asimovzz/TractorBot)**
 
-## 📈 GitHub Stats
-
-[![Asimovzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asimovzz)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Get in Touch
 
 - **Email**: [Zhangsm050615@outlook.com](Zhangsm050615@outlook.com)
